@@ -1,6 +1,4 @@
-# Interview Code Archive
-
-In this section, we had 2 questions to be solved within the stipulated time.
+### In this section, we had 2 questions to be solved within the stipulated time.
 
 Advanced Coding Easy (35 mins)  
 Advanced Coding Medium (55 mins)  
