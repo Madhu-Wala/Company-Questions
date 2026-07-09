@@ -21,7 +21,7 @@ Input:
 Output:
 * Print the index of first occurrence of target element.
 
-Solution: `CodingEasy.java`
+Solution: [CodingEasy.java](./CodingEasy.java)
 
 #### 2. Advanced Coding Medium
 
@@ -34,4 +34,4 @@ Input:
 Output:
 * min height of tree (int)
 
-Solution: `CodingMedium.java`
+Solution: [CodingMedium.java](./CodingMedium.java)
