@@ -11,14 +11,17 @@ The repository is organized by company and the date of the assessment. Inside ea
 │   ├── README.md              # Contains all problem descriptions for this drive
 │   ├── CodingEasy.java        # Working solution passing all test cases
 │   └── CodingMedium.java
+│
 ├── TCS_NQT28JuneYT/
 │   ├── README.md              
 │   ├── CodingEasy.java        
 │   └── CodingMedium.java
+│
 ├── TCS_6JulyYT/
 │   ├── README.md              
 │   ├── CodingEasy.java        
 │   └── CodingMedium.java
+│
 └── DolatCaptial9July/
     ├── README.md
     ├── Problem1.java
