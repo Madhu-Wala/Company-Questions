@@ -54,10 +54,12 @@ Find the binary representation of the value of which is maximum value of the tou
 010
 
 ```
+* **Sample Tree Respresentation**
+
+<img width="347" height="241" alt="image" src="https://github.com/user-attachments/assets/338e1dd2-0b39-47ab-97bd-a6f57b66a256" />
 
 
-
-**Solution:** [Problem1.java](./Problem1.java)
+**Solution:** *To be uploaded.*
 
 ---
 
@@ -76,17 +78,15 @@ Print summation of all numbers up to N (inclusive).
 
 ```
 
-
 * **Output:**
 ```text
 10
 
 ```
 
-
 *(Explanation: 1+2+3+4)*
 
-**Solution:** [Problem2.java](./Problem2.java)
+**Solution:** *To be uploaded.*
 
 ---
 
@@ -117,12 +117,9 @@ Count the minimum number of "(" or ")" that must be inserted to make the String 
 
 ```
 
-
 * **Sample Output:**
 ```text
 2
 ```
 
-
-
-**Solution:** [Problem3.java](./Problem3.java)
+**Solution:** *To be uploaded.*
