@@ -22,9 +22,9 @@ The repository is organized by company and the date of the assessment. Inside ea
 │   ├── CodingEasy.java        
 │   └── CodingMedium.java
 │
-└── DolatCaptial9July/
+└── DOLAT_CAPTIAL_OA/     # 9July
     ├── README.md
-    ├── Problem1.java
-    ├── Problem2.java
-    └── Problem3.java
+    ├── Problem1.java   # TO BE ADDED
+    ├── Problem2.java   # TO BE ADDED
+    └── Problem3.java   # TO BE ADDED
 ```
