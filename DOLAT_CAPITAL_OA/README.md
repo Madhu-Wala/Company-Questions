@@ -59,7 +59,7 @@ Find the binary representation of the value of which is maximum value of the tou
 <img width="347" height="241" alt="image" src="https://github.com/user-attachments/assets/338e1dd2-0b39-47ab-97bd-a6f57b66a256" />
 
 
-**Solution:** *To be uploaded.*
+**Solution:** [Problem_1.java](./Problem_1.java)
 
 ---
 
@@ -69,6 +69,7 @@ You are given a class Summation. You will be provided with a positive integer N.
 Print summation of all numbers up to N (inclusive).
 
 **Note:** Even though the test cases are passed, the evaluation is based on the implementation of encapsulation.
+
 
 ### Example:
 
@@ -86,7 +87,12 @@ Print summation of all numbers up to N (inclusive).
 
 *(Explanation: 1+2+3+4)*
 
-**Solution:** *To be uploaded.*
+**Solution:** [Problem_2.java](./Problem_2.java)
+
+### Key Takeaways on Encapsulation:
+1. **Data Hiding**: The variable `n` is marked `private` so external classes cannot bypass our rules or corrupt data (e.g., setting a negative integer if we added validation).
+2. **Flexible Initialization**: While the exam context used a setter (`setN`), in real-world scenarios, adding a **Parameterized Constructor** (`public Summation(int n)`) is preferred to ensure the object is never left in an uninitialized or empty state.
+3. **Read Access (Getters)**: Providing a `getN()` method allows external modules to read the current boundary of the series without compromising safety.
 
 ---
 
