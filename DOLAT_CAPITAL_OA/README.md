@@ -119,7 +119,7 @@ Count the minimum number of "(" or ")" that must be inserted to make the String 
 
 * **Sample Input:**
 ```text
-()))(
+())(
 
 ```
 
@@ -128,4 +128,4 @@ Count the minimum number of "(" or ")" that must be inserted to make the String 
 2
 ```
 
-**Solution:** *To be uploaded.*
+**Solution:** [Problem_3.java](./Problem_3.java)
