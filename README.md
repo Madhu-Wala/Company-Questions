@@ -2,7 +2,7 @@
 
 A chronological repository of coding interview questions faced in actual technical rounds and external sources, along with working Java solutions that clear the test cases.
 
-## 📁 Repository Structure
+## Repository Structure
 
 The repository is organized by company and the date of the assessment. Inside each folder, you'll find a `README.md` containing the problem descriptions and the corresponding `.java` solution files.
 
