@@ -15,10 +15,10 @@ This directory contains the problem descriptions and solution approaches for the
 Given an integer array `arr` of size `N` and an integer `k`, rotate the array to the right by `k` positions and return the rotated array.
 
 ### Example
-* **Input:** ```text
+* **Input:**
+```text
   arr = [1, 2, 3, 4, 5]
   k = 2
-
 ```
 
 * **Output:**
