@@ -1,6 +1,6 @@
 # Interview Code Archive
 
-A chronological repository of coding interview questions faced in actual technical rounds and external sources, along with working Java solutions that clear the test cases.
+A repository of coding interview questions faced in actual technical rounds and external sources, along with working Java solutions that clear the test cases.
 
 ## Repository Structure
 
